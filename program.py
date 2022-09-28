@@ -9,3 +9,7 @@ def pole_kola(a):
 
 def pole_prostokata(a,b):
     return a*b
+
+def pole_kwadratu(a):
+    return a*a
+
