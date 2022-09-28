@@ -13,3 +13,5 @@ def pole_prostokata(a,b):
 def pole_kwadratu(a):
     return a*a
 
+def pln_eur(b):
+    return b * 0.19
