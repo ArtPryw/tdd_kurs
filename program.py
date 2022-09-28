@@ -6,3 +6,6 @@ def przywitanie(imie = input("Podaj swoje imie")):
 
 def pole_kola(a):
     return 3.14 * a ** 2
+
+def pole_prostokata(a,b):
+    return a*b
